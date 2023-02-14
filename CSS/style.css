@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+header{
+    background-color: rgb(156, 8, 156);
+    width: 100%;
+    float: left;
+    /* text-align: center; */
+}
+.container{
+    width: 90%;
+    /* background-color: rgb(21, 221, 48); */
+    margin: auto;
+    
+}
+.navigation-part{
+    width: 100%;
+    float: left;
+}
+hero-part{
+width: 100%;
+float: left;
+}
+
+.logo-part{
+width: 50%;
+background-color: aqua;
+float: left;
+}
+.menu-part{
+width: 50%;
+float: left;
+background-color: rgb(17, 17, 175);
+}
+#service{
+    background-color: aqua;
+    float: left;
+    width: 100%;
+}
+.service-writting-part{
+width: 100%;
+float: left;
+}
+.service-box-part{
+    width: 100%;
+    float: left;
+}
+.service-box{
+    width: 25%;
+    float: left;
+}
